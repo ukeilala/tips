@@ -1,0 +1,3 @@
+dirs -v 
+pushd .
+popd
