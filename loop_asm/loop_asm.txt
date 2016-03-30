@@ -1,0 +1,5 @@
+In armcc,
+volatile int x=0; while(!x);
+
+In Linux gcc,
+__asm__ volatile("b .");
