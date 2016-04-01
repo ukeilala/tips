@@ -1,0 +1,2 @@
+You can see kthread thread list as below command
+ps -f -p 2 --ppid 2
