@@ -1,0 +1,3 @@
+:ls 
+% : move
+ga : print to ascii type (Decimal, Hex, Octal)
