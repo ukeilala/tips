@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/mk/data/safeg/safeg-0.4-qemu-14dec2012/soltz/svn_src_20160328_tcc8980/01_Linux_CLS_Patch1019/bsp/kernel/arch'
+let g:netrw_dirhist_2='/home/mk/data/safeg/safeg-0.4-qemu-14dec2012/soltz/svn_src_20160328_tcc8980/01_Linux_CLS_Patch1019/bsp/kernel/arch/arm'
+let g:netrw_dirhist_3='/home/mk/data/safeg/safeg-0.4-qemu-14dec2012/soltz/svn_src_20160328_tcc8980/01_Linux_CLS_Patch1019/bsp/kernel/arch/arm/boot'
+let g:netrw_dirhist_4='/home/mk/data/safeg/safeg-0.4-qemu-14dec2012/soltz/svn_src_20160328_tcc8980/01_Linux_CLS_Patch1019/bsp/kernel/arch/arm'
+let g:netrw_dirhist_5='/home/mk/data/safeg/safeg-0.4-qemu-14dec2012/soltz/svn_src_20160328_tcc8980/01_Linux_CLS_Patch1019/bsp/kernel/arch/arm/common'
+let g:netrw_dirhist_6='/home/mk/.vim'

@@ -1,3 +1,13 @@
-:ls 
+:ls : see file buffer
 % : move
 ga : print to ascii type (Decimal, Hex, Octal)
+zf : folding after visual block
+zo : unfolding block
+^g : print to dafault file information
+~  : change upper, lower character
+
+cscope setting
+mkcscope.sh
+ctrl + \ + c : calling function
+crtl + \ + g : definition function
+
