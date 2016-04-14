@@ -1,0 +1,2 @@
+## diff two revisions
+svn diff -r x:y > diff.txt
