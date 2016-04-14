@@ -1,0 +1,2 @@
+#!/bin/sh
+strings -a xxx.ko | grep "GCC: ("
