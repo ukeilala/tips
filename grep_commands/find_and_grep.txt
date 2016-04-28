@@ -1,0 +1,1 @@
+find . -name "filename.txt" -printf %p -exec grep -nr xxxxx {} \; 

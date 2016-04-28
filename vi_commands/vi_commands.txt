@@ -10,4 +10,4 @@ cscope setting
 mkcscope.sh
 ctrl + \ + c : calling function
 crtl + \ + g : definition function
-
+ctrl + \ + s : find symbol
