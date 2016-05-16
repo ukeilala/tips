@@ -1,1 +1,10 @@
 ftp://ftp.ecn.purdue.edu/xzl/osdi/docs/qemu.html
+
+// QEMU sshfs
+sudo sshfs -p 2222 root@localhost:/home/root /mnt/test -o nonempty
+
+// gdb gef
+https://hub.docker.com/r/superkojiman/pwnbox/~/dockerfile/
+gdb-multiarch -q vmlinux
+
+
