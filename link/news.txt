@@ -163,6 +163,10 @@ http://www.podbbang.com/ch/6739
 // 독자적인 책수다
 http://www.podbbang.com/ch/11190?e=21981952
 
+// 문화 공감 신성원 
+http://www.podbbang.com/ch/6683
+
+
 // 이승욱 공공상담소
 http://home.ebs.co.kr/poem/replay/8/view
 ?courseId=BP0PHPI0000000033&stepId=01BP0PHPI0000000033&prodId=9796&pageNo=1&lectId=10323376&lectNm=&bsktPchsYn=&prodDetlId=&oderProdClsCd=&prodFig=&vod=A&oderProdDetlClsCd=
