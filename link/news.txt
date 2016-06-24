@@ -202,6 +202,9 @@ http://mini.imbc.com/v2/index.html?page=http://www.imbc.com/broad/radio/fm4u/hel
 http://mini.imbc.com/v2/index.html?page=http://www.imbc.com/broad/radio/fm4u/mbcdate/v2/js/jarvis.pagedata.js&channel=1&service=podcast&program=1002892100000100000&src=http://www.imbc.com/broad/radio/fm4u/mbcdate/index.html&ref=http://www.google.co.kr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=7&ved=0ahUKEwjcouGGkLvNAhWKp5QKHW1kAiYQFggrMAY&url=http%3A%2F%2Fwww.imbc.com%2Fbroad%2Fradio%2Ffm4u%2Fmbcdate%2Findex.html&usg=AFQjCNFjRGoqqlU4NC4RhIyD-eKnD5XjTQ&sig2=etDRyG4EtGoVb-_zZ33-9w&bvm=bv.125221236,d.dGo&cad=rjt#http://www.imbc.com/broad/radio/fm4u/mbcdate/v2/js/jarvis.pagedata.js
 
 
+// MBC Blue Night JongHyun with Back young-ok writer.
+http://www.imbc.com/broad/radio/fm4u/bluenight/podcast/index.html
+
 https://github.com/pranith/linuxconfig
 
 
