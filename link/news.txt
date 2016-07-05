@@ -310,6 +310,9 @@ https://github.com/hiboma/hiboma
 ebs 좋은 문장 찾기
 
 
+CBS rainbow tv 새롭게 하소서
+http://rainbowtv.cbs.co.kr/tv/list.asp?page=&program=tobe_new
+
 //chrome에서 실행하기
 http://munjang.or.kr/archives/141256 
 http://munjang.or.kr/
